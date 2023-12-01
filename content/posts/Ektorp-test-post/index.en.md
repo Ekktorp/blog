@@ -25,6 +25,23 @@ Cette article est un test de Ektorp
 <!--more-->
 
 Ceci est une image :
-logo.png
+![[logo.png]]
 
-Et voici du code : ```From python import ** 
+Et voici du code : 
+````python
+from python import *
+os.test
+
+bidule chouette 
+
+KACHOW !!!!
+
+
+while 1: 
+
+
+for i in range :
+
+````
+
+
