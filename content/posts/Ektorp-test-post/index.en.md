@@ -24,9 +24,14 @@ Cette article est un test de Ektorp
 
 <!--more-->
 
-![Complete configuration preview](complete-configuration-preview.png "Complete configuration preview")
+# DESCRIPTION
+
+## CARS 1
+
+### Flash
+
 Ceci est une image :
-![logo](logo.png)
+![logo](logo.png "logo")
 
 
 Et voici du code : 
@@ -47,3 +52,13 @@ for i in range :
 ````
 
 
+# CARS 2
+
+
+![autrelogo.jpeg](autrelogo.jpeg "autrelogo")
+
+balbalblablab
+
+
+
+# CARS 3
