@@ -1,29 +1,30 @@
 ---
-weight: 1
-title: Ektorp fist test
-date: 2023-12-01T21:29:01+01:00
-lastmod: 2023-12-01T21:29:01+01:00
+weight: 4
+title: Ektorp test
+date: 2019-12-01T21:57:40+08:00
+lastmod: 2023-12-01T16:45:40+08:00
 draft: false
-author: Ektorp
-authorLink: https://ekktorp.github/io/blog
-description: Ceci est un premier test de post sur mon blog
+author: Dillon
+authorLink: https://dillonzq.com
+description: Cette article est un test de Ektorp
 images: 
 resources:
-  - name: cars
-    src: 76535343cdf1ab258b14370b8c2840c4.jpeg
+  - name: featured-image
+    src: featured-image.jpg
 tags:
-  - test
-  - first
+  - Markdown
+  - HTML
+  - Cars
 categories:
-  - documentation
+  - Markdown
 lightgallery: true
-toc:
-  auto: false
 ---
 
-# CECI est un test 
+Cette article est un test de Ektorp
 
+<!--more-->
 
-HEllo voici une image : 
-
+Ceci est une image :
 ![[logo.png]]
+
+Et voici du code : ``From python import ** 
