@@ -1,4 +1,4 @@
-baseURL = "https://ekktorp.github.io/blog"
+baseURL = "https://ekktorp.github.io"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -96,7 +96,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<"
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = "//>"
+      post = "/>"
       #  whether to use typeit animation for title name
       typeit = true
 
