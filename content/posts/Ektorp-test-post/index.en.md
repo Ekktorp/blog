@@ -24,8 +24,10 @@ Cette article est un test de Ektorp
 
 <!--more-->
 
+![Complete configuration preview](complete-configuration-preview.png "Complete configuration preview")
 Ceci est une image :
-![[logo.png]]
+![logo](logo.png)
+
 
 Et voici du code : 
 ````python
