@@ -24,7 +24,6 @@ Cette article est un test de Ektorp
 
 <!--more-->
 
-# DESCRIPTION
 
 ## CARS 1
 
@@ -52,8 +51,9 @@ for i in range :
 ````
 
 
-# CARS 2
+## CARS 2
 
+### autre image
 
 ![autrelogo.jpeg](autrelogo.jpeg "autrelogo")
 
@@ -61,4 +61,4 @@ balbalblablab
 
 
 
-# CARS 3
+## CARS 3
